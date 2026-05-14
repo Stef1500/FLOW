@@ -1,4 +1,4 @@
-F.L.O.W. – File Live Organizer & Watcher
+#F.L.O.W. – File Live Organizer & Watcher
 
 A lightweight Python application that automatically organizes files inside a selected folder and continuously monitors it for new files.
 F.L.O.W. helps users keep their directories clean by sorting files into categorized subfolders based on file extensions.
