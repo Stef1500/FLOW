@@ -136,29 +136,6 @@ The program stores:
 
 ---
 
-# Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/F.L.O.W.git
-cd F.L.O.W
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the program:
-
-```bash
-python main.py
-```
-
----
-
 # Future Improvements
 
 - Graphical User Interface (GUI)
@@ -168,9 +145,3 @@ python main.py
 - Cross-platform support
 - File duplicate detection
 - Automatic cleanup rules
-
----
-
-# License
-
-This project is for educational purposes.
